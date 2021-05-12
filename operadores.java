@@ -13,7 +13,7 @@ public class operadores {
         System.out.println("A soma dos números digitados é: " + (num1 + num2));
         System.out.println("A subtração dos números digitados é: " + (num1 - num2));
         System.out.println("A multiplicação dos números digitados é: " + (num1 * num2));
-        System.out.println("A divisão dos números digitados é: " + (num1 / num2));
+        System.out.println("A divisão dos números digitados é: " + num1 / num2);
 
     }
 }
