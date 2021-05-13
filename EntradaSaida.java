@@ -11,7 +11,7 @@ public class EntradaSaida {
                 System.out.println("Você digitou: " + numero);
                 System.out.println("Quer continuar? S/N");
                 String resposta = input.next();
-                if (resposta.equals("N")){
+                if (resposta.equalsIgnoreCase("N")){
                     break;
                 }
 
