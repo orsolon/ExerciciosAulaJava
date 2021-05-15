@@ -51,3 +51,5 @@ Ao final, informe qual o nome mais longo presente na lista.
 ## Array8
 * Escreva um programa que lê nome e peso de 5 pessoas, calcula o IMC de cada um e ao final informa se alguém está fora do peso ideal (o IMC ideal é entre 18,5 e 25).
 
+## POO
+* Crie uma classe para representar a estrutura de dados para uma Pessoa, contendo os atributos de nome, idade. Defina os métodos construtor padrão e completo, e os acessadores e modificadores para cada atributo. Também escreva o método "toString" para essa classe.

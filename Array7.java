@@ -50,12 +50,36 @@ public class Array7 {
             somatorio += idades[i];
         }
 
-            
-        
-
         System.out.println("O mais novo é: " + nomes[maisNovoIndice]);
         System.out.println("O mais velho é: " + nomes[maisVelhoIndice]);
         System.out.println("A media de idade deles é: " + somatorio/idades.length);
+
+
+        Reescreva a questão 7 da Lista 3 usando POO "Escreva um programa que lê nome e idade de 5 pessoas e ao final informa quem é o mais novo,
+         o mais velho e qual a média de idade."
+
+        public class Info {
+            String nome;
+            String idade;
+        }
+
+        void exibirMaisVelho() {
+            System.out.println("O mais velho é: " + nomes[maisVelhoIndice]);
+        }
+
+         void exibirMaisNovo() {
+            System.out.println("O mais novo é: " + nomes[maisNovoIndice]);
+        }
+
+        void exibirMedia {
+            System.out.println("A media de idade deles é: " + somatorio/idades.length);
+        }
+
+
+
+
+
+
      */
     }
 
