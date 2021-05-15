@@ -7,5 +7,11 @@ public class Array {
         for ( int fruta = 0; fruta < carrinhoCompras.length; fruta++){
             System.out.println(carrinhoCompras[fruta]);
         }
+        //ou
+        for (String fruta : carrinhoCompras) {
+        System.out.println(fruta);
+        }
+        
     }
+
 }

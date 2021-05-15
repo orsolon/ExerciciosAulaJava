@@ -38,6 +38,16 @@ Escreva um programa que recebe dois números inteiros e informa o resultado das 
 ## Array4
 * Escreva um programa que lê 5 números e informa o maior, o menor e a média deles.
 
+## Array5
+* Escreva um programa que lê o nome de 5 pessoas e armazena numa lista de convidados. 
+Ao final, informe qual o nome mais longo presente na lista.
 
+## Array6
+* Escreva um programa que lê uma palavra e escreve de volta com os caracteres ímpares em maiúsculo.
 
+## Array7
+* Escreva um programa que lê nome e idade de 5 pessoas e ao final informa quem é o mais novo, o mais velho e qual a média de idade.
+
+## Array8
+* Escreva um programa que lê nome e peso de 5 pessoas, calcula o IMC de cada um e ao final informa se alguém está fora do peso ideal (o IMC ideal é entre 18,5 e 25).
 

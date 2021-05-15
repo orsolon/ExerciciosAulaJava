@@ -49,3 +49,35 @@ public class Array3 {
 
     }
 }
+
+/* correçã0
+
+int [] numeros = {1,2,3,4,5};
+ System.out.println("IMPARES");
+ printOddNumbers(numeros);
+
+  System.out.println("PARES");
+  printEvenNumbers(numeros);
+
+  public static void printOddNumbers(int[] numeros) {
+      for(int nun : numeros) {
+          if (num % !=0){
+              System.out.println(num);
+          }
+      }
+  }
+
+  public static void printEvenNumbers(int[] numeros) {
+      for(int nun : numeros) {
+          if (num % ==0){
+              System.out.println(num);
+          }
+      }
+  }
+
+  Lambida expressions e funcional programing
+  Stream.of(1,2,3,4,5)
+    .filter(i -> i%2==0)
+    .forEach(System.out::println);
+
+*/

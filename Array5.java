@@ -22,3 +22,10 @@ public class Array5 {
 1 - inicializei a variavel maior com zero
 2 - criei um If onde ele analisa se a variavel maior é MENOR que o tamanho da palavra corrente, caso seja, maior irá receber o tamanho da palavra corrente e indicepalavra receberá o indice que indica a posição da palavra no "vetor".
 3 - por fim como sei aonde a maior palavra esta posicionada, utilizo a variavel indicepalavra para indicar qual é a maior.*/
+
+ // String maiorNome = convidados[0]
+//  for(String nome : convidados) {
+//      if(nome.lenght() > maiorNome.lenght()) {
+//          maiorNome = nome;
+//      }
+//  }

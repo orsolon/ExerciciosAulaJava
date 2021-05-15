@@ -12,6 +12,18 @@ public class Array2 {
             novaPalavra = novaPalavra + Character.toString(palavra.charAt(i));
         }
         System.out.println(novaPalavra);
-    }
+
+        /* correção
+
+        String palavra = "palavra";
+        char [] ordemNormal = palavra.toCharArray();
+        System.out.println("A palavra  ao contrario é: ");
+        for (int i=ordemNormal.length; i >=0; i++){
+            System.out.println(ordemNormal[i]);
+            */
+        }
+       
+        
+ }
     
-}
+
